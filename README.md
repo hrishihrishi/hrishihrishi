@@ -1,19 +1,22 @@
-# 💫 About Me:
-Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, passionate about building scalable backend systems, AI-powered applications, and developer tools.
+<div align="center">
 
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&width=700&lines=Software+Engineer+%C2%B7+AI+Automation+%C2%B7+Full-Stack;Reduced+AI+CRM+operational+costs+by+70%E2%80%9390%25;Agentic+AI+testing+%E2%80%94+8+days+down+to+1%E2%80%932+hours;MERN+optimization+%E2%80%94+60%25+faster+loads+%C2%B7+80%25+fewer+DB+queries;CGPA+9.1%2F10+%C2%B7+CS+Degree+%C2%B7+Bangalore" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-# <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/hand-wave.gif" width="30px"> Hi, I'm Hrishikesh H 🚀
-### **Software Engineer | AI & Full-Stack Systems Architect**
-
-[cite_start]I engineer high-performance web applications, server-driven UI architectures, and production-grade AI systems that **dramatically cut costs** and **scale effortlessly**[cite: 3, 4].
+</div>
 
 ---
 
-## ⚡ Quick Connect & Reach Out
+## I engineer high-performance web platforms, server-driven UI architectures, and production-grade AI systems.
+
+Most organisations can get an AI demo or web prototype working. [cite_start]Fewer can deploy agentic workflows and full-stack architectures that perform under real operational load, slash enterprise costs by 70–90%, and hold up reliably under high concurrency[cite: 33]. [cite_start]That gap — between basic code and production-grade software engineering — is where I spend my time[cite: 3, 33].
+
+[cite_start]I design systems that don't just pass tests in local dev environment — they deliver high performance, offline capabilities, and 10× faster developer velocity across teams[cite: 5, 34].
+
+---
+
+## ⚡ Quick Connect & CTA
 
 <p align="left">
   <a href="https://linkedin.com/in/hrishikesh-h-96a6a4366">
@@ -21,6 +24,9 @@ Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, pa
   </a>
   <a href="https://github.com/hrishihrishi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/HrishiH/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:hrishi.halesh.18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -32,100 +38,87 @@ Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, pa
 
 ---
 
-## 🛠️ Technical Superpowers
+## 🎯 What I've Built — Results That Matter
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERPNext-5865F2?style=for-the-badge&logo=erpnext&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Convex-FF5733?style=for-the-badge&logo=convex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_CLI-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-0052CC?style=for-the-badge&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Liveblocks-FF4400?style=for-the-badge&logo=liveblocks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-</p>
+| Platform / Initiative | Outcome |
+|---|---|
+| **AI CRM Automation Architecture** | [cite_start]70–90% reduction in operational costs via scalable APIs & webhooks [cite: 33] |
+| **Agentic AI Automated Testing** | [cite_start]Slashed workflow QA time from 8 days to 1–2 hours (40–50% manual effort cut) [cite: 34] |
+| **MERN Platform Optimization** | [cite_start]60% faster page loads and 80% reduction in DB queries via caching [cite: 35, 36] |
+| **Server-Driven UI & ERP Mobile** | [cite_start]10× faster development speed and 40% higher data reliability [cite: 34] |
+| **Academic Performance** | [cite_start]9.1 / 10 CGPA in Computer Science (University of Mysore) [cite: 32] |
 
 ---
 
-## 🎯 Impact & Achievements At a Glance
+## 🧠 What I'm Focused On Right Now
 
-| Focus Area | Impact Delivered |
-| :--- | :--- |
-| **Operational Efficiency** | [cite_start]💰 Reduced operational costs by **70–90%** via scalable AI workflows & webhooks[cite: 3]. |
-| **Testing Velocity** | [cite_start]⚡ Slashed QA testing cycles from **8 days down to 1–2 hours** using Agentic AI[cite: 4]. |
-| **App Performance** | [cite_start]🚀 Accelerated web app load speeds by **60%** and reduced DB queries by **80%**[cite: 5, 6]. |
-| **Dev Speed & Sync** | [cite_start]⏩ Boosted developer velocity by **10x** with a custom Server-Driven UI Builder[cite: 4]. |
-| **Academic Excellence** | [cite_start]🎓 Maintained a top-tier **9.1 / 10 CGPA** in Computer Science[cite: 2]. |
+**Building scalable, agentic, and production-ready full-stack AI systems.**
 
----
+That means building the automation workflows, offline-first architectures, and server-driven design patterns that bridge modern frontend and scalable backends:
 
-## 💼 Work Experience
-
-#### 🤖 **Software Engineer (AI Automation)** | *Intune AI* *(Feb 2026 – Present)*
-* [cite_start]Architected end-to-end AI-driven CRM workflows, significantly optimizing system architecture[cite: 3].
-* [cite_start]Deployed **Agentic AI testing framework** that optimized prompts and decreased manual QA workload by **40–50%**[cite: 4].
-
-#### 📱 **SDE Intern (Frappe / ERPNext)** | *Service Further* *(Oct 2025 – Jan 2026)*
-* [cite_start]Engineered a multi-tenant mobile ERP app featuring **offline-first architecture**, cutting API load times by **35%**[cite: 4].
-* [cite_start]Designed real-time sync pipelines and a dynamic UI Builder, scaling data reliability by **40%**[cite: 4].
-
-#### ⚡ **Full Stack Web Developer Intern** | *Codex IT* *(Sep 2025 – Oct 2025)*
-* [cite_start]Refactored legacy MERN codebases to achieve high-performance runtime, cutting DB queries by **80%** with advanced caching layers[cite: 5, 6].
-
-#### 🔐 **Backend Engineer** | *Lanis IT* *(Jun 2025 – Aug 2025)*
-* [cite_start]Built secure backend APIs with **Role-Based Access Control (RBAC)**, trimming response times by **25%**[cite: 7, 8].
+- [cite_start]🤖 **Agentic AI & LLM Automation** — Custom agent workflows, prompt engineering, Model Context Protocol (MCP), and automated evaluation pipelines [cite: 34, 40]
+- [cite_start]📱 **Server-Driven UI & Mobile ERP** — Multi-tenant React Native & Frappe apps with offline synchronization and dynamic UI rendering [cite: 34]
+- [cite_start]⚡ **High-Performance Web Systems** — Next.js/React architectures, Redis/in-memory caching layers, and micro-optimizations [cite: 35, 36]
+- [cite_start]🔐 **Secure Microservices & BaaS** — Webhook pipelines, RBAC permission models, Supabase, Convex, and distributed data sync [cite: 33, 38, 41, 44, 46]
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack & Expertise (30+ Technologies)
 
-### 🎙️ **AI Learning Management System (SaaS)**
-> *Scalable Next.js SaaS utilizing real-time voice synthesis, AI dictation, and secure monetization.*
-* [cite_start]**Tech:** React.js, Next.js, Vapi AI, Supabase, Stripe, Sentry, Vercel [cite: 11]
-* [cite_start]**Key Features:** Automated subscription invoicing, Clerk auth, and crash telemetry tracking[cite: 13].
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📝 **Real-Time Collaborative Google Docs Clone**
-> *Multi-user document editor built for high concurrency and real-time state synchronization.*
-* [cite_start]**Tech:** Next.js, TypeScript, Liveblocks, Convex, Clerk, Tailwind CSS [cite: 14]
-* [cite_start]**Key Features:** Shared workspaces, live cursor presence indicators, inline comments, and fine-grained RBAC document security[cite: 14, 15].
+### 🎨 Frontend & Mobile Architecture
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-5865F2?style=for-the-badge&logo=erpnext&logoColor=white)
+
+### 🗄️ Databases, Cloud & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF5733?style=for-the-badge&logo=convex&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🤖 AI, Automation & Integrations
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=microchip&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A86B?style=for-the-badge&logo=openai&logoColor=white)
+![Make](https://img.shields.io/badge/Make-0052CC?style=for-the-badge&logo=make&logoColor=white)
+![Liveblocks](https://img.shields.io/badge/Liveblocks-FF4400?style=for-the-badge&logo=liveblocks&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Featured Implementations
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishihrishi&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishihrishi&theme=radial&hide_border=true" width="48%" />
-</p>
+> [cite_start]These implementations reflect production-level engineering across SaaS, collaborative platforms, and ERP architectures[cite: 34, 41, 44].
+
+| Repository / Project | What It Demonstrates |
+|---|---|
+| 🎙️ **[AI Learning Management SaaS](https://github.com/hrishihrishi)** | [cite_start]Next.js SaaS architecture with Vapi AI voice synthesis, Stripe monetization pipelines, Clerk auth, and Sentry crash telemetry[cite: 41, 42, 43]. |
+| 📝 **[Real-time Collaborative Google Docs Clone](https://github.com/hrishihrishi)** | [cite_start]Multi-user document editor with real-time sync, live cursor presence, inline comments, and Convex state storage[cite: 44, 46]. |
+| 📱 **[Multi-Tenant ERP Mobile Platform](https://github.com/hrishihrishi)** | [cite_start]Offline-first Server-Driven UI with React Native & Frappe DB, boosting data reliability by 40%[cite: 34]. |
 
 ---
 
-<p align="center">
-  <i>"Building high-performance software systems that work flawlessly behind the scenes."</i> ⚡
-</p>
+## 🏛️ Architecture & Expertise Domains
