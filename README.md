@@ -1,58 +1,131 @@
 # 💫 About Me:
-Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, passionate about building scalable backend systems, AI-powered applications, and developer tools. I enjoy solving complex engineering problems with clean architecture, automation, and cloud technologies.<br><br>Currently, I'm working on AI automation, backend engineering, and agentic AI systems while continuously improving my skills in Java, Go, Python, system design, and cloud infrastructure. My goal is to build software that impacts millions of users and grow into an engineer capable of solving large-scale technical challenges.<br><br>Outside of coding, you'll find me solving DSA problems, exploring new technologies, contributing to open source, and learning something new every day.
-
-<div align="center">
-
-# 👋 Let's Build Something Awesome Together
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer;AI+Automation+Engineer;Always+Learning+🚀;Open+to+Amazing+Opportunities"/>
-
-<br>
-
-<a href="mailto:hrishi.halesh.18@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/hrishikesh-h-96a6a4366">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hrishihrishi">
-    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="tel:+918217273480">
-    <img src="https://img.shields.io/badge/📱_+91_8217273480-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hrishihrishi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-h-96a6a4366)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HrishiH/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishi.for.signups@gmail.com)
-[![Naukri](https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge)](YOUR_NAUKRI_PROFILE_LINK)
+Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, passionate about building scalable backend systems, AI-powered applications, and developer tools.
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hrishihrishi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hrishihrishi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrishihrishi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrishihrishi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/hand-wave.gif" width="30px"> Hi, I'm Hrishikesh H 🚀
+### **Software Engineer | AI & Full-Stack Systems Architect**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hrishihrishi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[cite_start]I engineer high-performance web applications, server-driven UI architectures, and production-grade AI systems that **dramatically cut costs** and **scale effortlessly**[cite: 3, 4].
 
 ---
-[![](https://komarev.com/ghpvc/?username=hrishihrishi&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Quick Connect & Reach Out
+
+<p align="left">
+  <a href="https://linkedin.com/in/hrishikesh-h-96a6a4366">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hrishihrishi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:hrishi.halesh.18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+918217273480">
+    <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Superpowers
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERPNext-5865F2?style=for-the-badge&logo=erpnext&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Convex-FF5733?style=for-the-badge&logo=convex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-0052CC?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Liveblocks-FF4400?style=for-the-badge&logo=liveblocks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Impact & Achievements At a Glance
+
+| Focus Area | Impact Delivered |
+| :--- | :--- |
+| **Operational Efficiency** | [cite_start]💰 Reduced operational costs by **70–90%** via scalable AI workflows & webhooks[cite: 3]. |
+| **Testing Velocity** | [cite_start]⚡ Slashed QA testing cycles from **8 days down to 1–2 hours** using Agentic AI[cite: 4]. |
+| **App Performance** | [cite_start]🚀 Accelerated web app load speeds by **60%** and reduced DB queries by **80%**[cite: 5, 6]. |
+| **Dev Speed & Sync** | [cite_start]⏩ Boosted developer velocity by **10x** with a custom Server-Driven UI Builder[cite: 4]. |
+| **Academic Excellence** | [cite_start]🎓 Maintained a top-tier **9.1 / 10 CGPA** in Computer Science[cite: 2]. |
+
+---
+
+## 💼 Work Experience
+
+#### 🤖 **Software Engineer (AI Automation)** | *Intune AI* *(Feb 2026 – Present)*
+* [cite_start]Architected end-to-end AI-driven CRM workflows, significantly optimizing system architecture[cite: 3].
+* [cite_start]Deployed **Agentic AI testing framework** that optimized prompts and decreased manual QA workload by **40–50%**[cite: 4].
+
+#### 📱 **SDE Intern (Frappe / ERPNext)** | *Service Further* *(Oct 2025 – Jan 2026)*
+* [cite_start]Engineered a multi-tenant mobile ERP app featuring **offline-first architecture**, cutting API load times by **35%**[cite: 4].
+* [cite_start]Designed real-time sync pipelines and a dynamic UI Builder, scaling data reliability by **40%**[cite: 4].
+
+#### ⚡ **Full Stack Web Developer Intern** | *Codex IT* *(Sep 2025 – Oct 2025)*
+* [cite_start]Refactored legacy MERN codebases to achieve high-performance runtime, cutting DB queries by **80%** with advanced caching layers[cite: 5, 6].
+
+#### 🔐 **Backend Engineer** | *Lanis IT* *(Jun 2025 – Aug 2025)*
+* [cite_start]Built secure backend APIs with **Role-Based Access Control (RBAC)**, trimming response times by **25%**[cite: 7, 8].
+
+---
+
+## 🌟 Featured Projects
+
+### 🎙️ **AI Learning Management System (SaaS)**
+> *Scalable Next.js SaaS utilizing real-time voice synthesis, AI dictation, and secure monetization.*
+* [cite_start]**Tech:** React.js, Next.js, Vapi AI, Supabase, Stripe, Sentry, Vercel [cite: 11]
+* [cite_start]**Key Features:** Automated subscription invoicing, Clerk auth, and crash telemetry tracking[cite: 13].
+
+### 📝 **Real-Time Collaborative Google Docs Clone**
+> *Multi-user document editor built for high concurrency and real-time state synchronization.*
+* [cite_start]**Tech:** Next.js, TypeScript, Liveblocks, Convex, Clerk, Tailwind CSS [cite: 14]
+* [cite_start]**Key Features:** Shared workspaces, live cursor presence indicators, inline comments, and fine-grained RBAC document security[cite: 14, 15].
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrishihrishi&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishihrishi&theme=radial&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building high-performance software systems that work flawlessly behind the scenes."</i> ⚡
+</p>
