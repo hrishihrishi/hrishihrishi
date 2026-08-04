@@ -50,9 +50,9 @@
 
 | Repository / Project | What It Demonstrates |
 |---|---|
-| 🎙️ **[AI Learning Management SaaS](https://github.com/hrishihrishi/AI-LMS---SAAS)** | Next.js SaaS architecture with Vapi AI voice synthesis, Stripe monetization pipelines, Clerk auth, and Sentry crash telemetry . |
-| 📝 **[Hrishi_Docs - A Google Docs Clone](https://github.com/hrishihrishi/hrishi_docs)** | Multi-user document editor with real-time sync, live cursor presence, inline comments, and Convex state storage . |
-| 📱 **[Hrishi CLI - Claude Code inspired Agentic AI terminal](https://github.com/hrishihrishi/HrishiCLI)** | Offline-first Server-Driven UI with React Native & Frappe DB, boosting data reliability by 40% . |
+|**[AI Learning Management SaaS](https://github.com/hrishihrishi/AI-LMS---SAAS)** | Next.js SaaS architecture with Vapi AI voice synthesis, Stripe monetization pipelines, Clerk auth, and Sentry crash telemetry . |
+|**[Hrishi_Docs - A Google Docs Clone](https://github.com/hrishihrishi/hrishi_docs)** | Multi-user document editor with real-time sync, live cursor presence, inline comments, and Convex state storage . |
+|**[Hrishi CLI - Claude Code inspired Agentic AI terminal](https://github.com/hrishihrishi/HrishiCLI)** | Offline-first Server-Driven UI with React Native & Frappe DB, boosting data reliability by 40% . |
 
 ---
 
