@@ -1,6 +1,31 @@
 # 💫 About Me:
 Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, passionate about building scalable backend systems, AI-powered applications, and developer tools. I enjoy solving complex engineering problems with clean architecture, automation, and cloud technologies.<br><br>Currently, I'm working on AI automation, backend engineering, and agentic AI systems while continuously improving my skills in Java, Go, Python, system design, and cloud infrastructure. My goal is to build software that impacts millions of users and grow into an engineer capable of solving large-scale technical challenges.<br><br>Outside of coding, you'll find me solving DSA problems, exploring new technologies, contributing to open source, and learning something new every day.
 
+<div align="center">
+
+# 👋 Let's Build Something Awesome Together
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer;AI+Automation+Engineer;Always+Learning+🚀;Open+to+Amazing+Opportunities"/>
+
+<br>
+
+<a href="mailto:hrishi.halesh.18@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hrishikesh-h-96a6a4366">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hrishihrishi">
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="tel:+918217273480">
+    <img src="https://img.shields.io/badge/📱_+91_8217273480-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🌐 Connect with Me
 
