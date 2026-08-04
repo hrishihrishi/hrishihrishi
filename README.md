@@ -2,8 +2,14 @@
 Hi, I'm Hrishikesh 👋<br><br>I'm a Software Engineer from Bangalore, India, passionate about building scalable backend systems, AI-powered applications, and developer tools. I enjoy solving complex engineering problems with clean architecture, automation, and cloud technologies.<br><br>Currently, I'm working on AI automation, backend engineering, and agentic AI systems while continuously improving my skills in Java, Go, Python, system design, and cloud infrastructure. My goal is to build software that impacts millions of users and grow into an engineer capable of solving large-scale technical challenges.<br><br>Outside of coding, you'll find me solving DSA problems, exploring new technologies, contributing to open source, and learning something new every day.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-h-96a6a4366/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrishi.for.signups@gmail.com) 
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hrishihrishi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-h-96a6a4366)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HrishiH/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishi.for.signups@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge)](YOUR_NAUKRI_PROFILE_LINK)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
